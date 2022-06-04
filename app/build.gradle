@@ -1,0 +1,13 @@
+plugins {
+    id 'java'
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'com.code_intelligence.example.ExampleApplication'
+    }
+}
+
+repositories {
+    mavenCentral()
+}

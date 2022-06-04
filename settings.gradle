@@ -1,0 +1,2 @@
+rootProject.name = 'jazzer-custom-hooks'
+include('lib', 'app')
